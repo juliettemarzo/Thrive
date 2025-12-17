@@ -23,6 +23,13 @@ A full-stack web application built with **Node.js**, **Express**, and **MongoDB 
 
 ---
 
+## Contributions
+
+- Designed and implemented user authentication, including signup and login functionality, using Node.js, Express, and MongoDB.
+- Built RESTful backend routes and services to handle user and goal data.
+- Developed responsive HTML and CSS for the login and signup pages, focusing on usability and clean UI design.
+
+
 ## Prerequisites
 
 Before running this project, make sure you have:
